@@ -1,0 +1,15 @@
+#TODO
+1.Ask the how many players wants to play the game  - done
+give each player their information - done
+2.Show game representation - done 
+3.Roll the dice between 1 and 6 - done
+4.Add a pawn to the game if the dice is 6 -done
+5.Move the pawn -done
+6.Check if by moving to a new position there is a collition between two pawn if so
+then eliminate the other player send it back to his quarters. -done
+6.5 check if a pawn arrived at home if it arrive then eliminated it from board and put at one to home -done 
+7.check winner if there are four pawns on the home position - done
+
+
+
+8.export the html to the browser -
